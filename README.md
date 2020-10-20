@@ -4,7 +4,7 @@
 
 #### **1.a Find the differences between those 2 tables original (left) and final (right)** 
 
-_By using Except and Union operator, we can see the diffirence between two table, the detail is as follow:_
+_By using Except and Union operator, we can see the diffirence between two tables, the detail is as follow:_
 
 ![](https://lh3.googleusercontent.com/-I-xf46XpHKI/X45UAed4NBI/AAAAAAAAAB0/ArMtUVRuTjIfa4Fv2WMopQNhRIp4xnMLgCLcBGAsYHQ/s0/Test_1_a.JPG "There are 13 rows that have the diffirence")
 
