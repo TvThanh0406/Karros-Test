@@ -1,3 +1,3 @@
-Select Count(mapzone) from Final
+Select Count(*) AS mapzone from Final
 
-Select Count(mapzone) from Original
+Select Count(*) AS mapzone from Original
